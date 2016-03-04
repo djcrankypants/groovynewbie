@@ -1,5 +1,1 @@
-# hello-world
-
-Tutorial run
-
-DJCrankypants blurb. Blah blah.
+Slinging Groovy for fun and profit.
